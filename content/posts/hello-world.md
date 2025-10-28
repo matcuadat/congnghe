@@ -12,3 +12,5 @@ draft: false
 ---
 
 Chào mừng bạn đến với blog công nghệ đầu tiên của tôi!
+Chào mừng bạn đến với blog công nghệ đầu tiên của tôi!
+
