@@ -1,5 +1,5 @@
 +++
-title = 'Không đe dọa suông, Amazon sắp tiến hành cắt giảm lớn nhất lịch sử, thay thế 30.000 nhân viên văn phòng bằng AI'
+title = 'Amazon sắp tiến hành cắt giảm lớn nhất lịch sử, thay thế 30.000 nhân viên văn phòng bằng AI'
 date = '2025-10-28T13:33:24+07:00'
 draft = false
 tags = []
