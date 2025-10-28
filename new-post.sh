@@ -16,7 +16,7 @@ cat > "content/posts/${SLUG}/index.md" << EOF
 +++
 title = '${TITLE}'
 date = '$(date -Iseconds)'
-draft = true
+draft = false
 tags = []
 categories = []
 +++
