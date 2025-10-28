@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-28T10:27:02+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-28T10:27:02+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/youtube-dong-gop-2-2-ty-bang-anh-cho-vuong-quoc-anh/</loc>
+    <lastmod>2025-10-28T10:27:02+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/apple-dam-phan-voi-spacex-de-tich-hop-starlink-vao-iphone-18-pro/</loc>
+    <lastmod>2025-10-27T16:11:24+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/foxconn-tang-san-luong-airpods/</loc>
+    <lastmod>2025-10-27T16:11:24+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ipad-the-he-2027-co-the-duoc-trang-bi-tan-nhiet-buong-hoi/</loc>
+    <lastmod>2025-10-27T15:38:49+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <lastmod>2025-10-27T15:14:10+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

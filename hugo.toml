@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = "vi-vn"
+title = "Công Nghệ & Khoa Học"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Trang chủ"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "Giới thiệu"
+    url = "/about/"
+    weight = 2
