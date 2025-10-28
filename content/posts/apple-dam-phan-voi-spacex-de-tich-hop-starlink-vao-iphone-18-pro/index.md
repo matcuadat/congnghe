@@ -1,6 +1,6 @@
 +++
 date = '2025-10-27T16:11:24+07:00'
-draft = true
+draft = false
 title = 'Apple đàm phán với SpaceX để tích hợp Starlink vào iPhone 18 Pro'
 +++
 ![Musk và apple](Musk-apple.jpg)

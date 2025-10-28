@@ -1,6 +1,6 @@
 +++
 date = '2025-10-27T16:11:24+07:00'
-draft = true
+draft = false
 title = 'Foxconn tăng gấp đôi sản lượng airpods ở Ấn Độ'
 +++
 ![Ảnh AirPods](/airpods-4-1.jpg)
