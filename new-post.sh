@@ -20,7 +20,7 @@ draft = false
 tags = []
 categories = []
 +++
-
+![Ảnh Meta AI](meta-ai.jpg)
 EOF
 
 echo "✅ Đã tạo: content/posts/${SLUG}/index.md"

@@ -5,7 +5,7 @@ draft = false
 tags = []
 categories = []
 +++
-![Ảnh amazon](amazon-cat-giam-nhan-su.jpg)
+![Ảnh amazon](amazon-cat-giam-nhan-su.jpeg)
  Amazon đang chuẩn bị thực hiện đợt sa thải lớn nhất trong lịch sử công ty, với kế hoạch cắt giảm tới 30.000 nhân viên khối văn phòng, bắt đầu từ tuần này. Theo các nguồn tin thân cận, động thái này nằm trong nỗ lực của tập đoàn nhằm thắt chặt chi phí, tinh giản bộ máy quản lý và bù đắp tình trạng tuyển dụng quá mức trong giai đoạn bùng nổ thương mại điện tử thời kỳ đại dịch.
 
 Mặc dù con số 30.000 chỉ chiếm một phần nhỏ trong tổng số 1,55 triệu lao động toàn cầu của Amazon, nhưng lại tương đương gần 10% lực lượng nhân sự khối văn phòng, tức khoảng 350.000 người.
