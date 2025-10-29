@@ -13,7 +13,12 @@ theme = "PaperMod"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "about"
-    name = "Mua-bán"
-    url = "/about/"
+    identifier = "sports"
+    name = "Thể Thao"
+    url = "/sports/"
     weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "giới thiệu"
+    url = "/about/"
+    weight = 3
