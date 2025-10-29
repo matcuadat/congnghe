@@ -1,6 +1,6 @@
 baseURL = 'https://congnghe-one.vercel.app/'
 languageCode = "vi-vn"
-title = "Công Nghệ & Khoa Học"
+title = "Công Nghệ & Kinh Tế"
 theme = "PaperMod"
 
 [pagination]
