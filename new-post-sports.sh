@@ -11,8 +11,8 @@ fi
 SLUG=$(echo "$TITLE" | sed 's/[áàảãạăắằẳẵặâấầẩẫậ]/a/g; s/[éèẻẽẹêếềểễệ]/e/g; s/[íìỉĩị]/i/g; s/[óòỏõọôốồổỗộơớờởỡợ]/o/g; s/[úùủũụưứừửữự]/u/g; s/[ýỳỷỹỵ]/y/g; s/[đ]/d/g; s/[ÁÀẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬ]/A/g; s/[ÉÈẺẼẸÊẾỀỂỄỆ]/E/g; s/[ÍÌỈĨỊ]/I/g; s/[ÓÒỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢ]/O/g; s/[ÚÙỦŨỤƯỨỪỬỮỰ]/U/g; s/[ÝỲỶỸỴ]/Y/g; s/[Đ]/D/g' | tr '[:upper:]' '[:lower:]' | sed -r 's/[^a-z0-9]+/-/g' | sed -r 's/^-+|-+$//g')
 
 # Tạo thư mục và file
-mkdir -p "content/posts/2025/10/29/${SLUG}"
-cat > "content/posts/2025/10/29/${SLUG}/index.md" << EOF
+mkdir -p "content/sports/2025/10/29/${SLUG}"
+cat > "content/sports/2025/10/29/${SLUG}/index.md" << EOF
 +++
 title = '${TITLE}'
 date = '$(date -Iseconds)'
@@ -23,5 +23,5 @@ categories = []
 ![Microsoft-Acc](Microsoft-X-Accc.jpg)
 EOF
 
-echo "✅ Đã tạo: content/posts/2025/10/29/${SLUG}/index.md"
+echo "✅ Đã tạo: content/sports/2025/10/29/${SLUG}/index.md"
 echo "📝 Tiêu đề: ${TITLE}"
