@@ -8,7 +8,7 @@ categories = []
 ![Nvidia-gtc-2025](nvidia-gtc-2025.jpg)
 Tại hội nghị **GTC 2025**, CEO **Jensen Huang** công bố loạt bước tiến mang tính nền tảng trong lĩnh vực **siêu máy tính AI và điện toán lượng tử**, đánh dấu bước ngoặt mới trong chiến lược mở rộng của Nvidia.
 
-# Bước tiến lịch sử trong điện toán lượng tử
+**Bước tiến lịch sử trong điện toán lượng tử**
 
 Sau hơn 40 năm kể từ khi nhà vật lý **Richard Feynman** đề xuất khái niệm máy tính lượng tử, ngành công nghệ đã đạt được bước đột phá: **tạo ra được một qubit logic ổn định và có khả năng sửa lỗi**.  
 
@@ -25,7 +25,7 @@ Theo Jensen Huang, NVQ Link có thể truyền **hàng terabyte dữ liệu mỗ
 
 Nvidia hiện hợp tác với **17 công ty lượng tử hàng đầu** và **8 phòng thí nghiệm năng lượng Hoa Kỳ (DOE)**, bao gồm Berkeley, Brookhaven, Los Alamos và Oak Ridge, để triển khai nền tảng này.
 
-# Hợp tác với Bộ Năng lượng Mỹ: 7 siêu máy tính AI mới
+**Hợp tác với Bộ Năng lượng Mỹ: 7 siêu máy tính AI mới**
 
 Jensen Huang cũng thông báo **quan hệ đối tác giữa Nvidia và Bộ Năng lượng Hoa Kỳ (DOE)** nhằm xây dựng **bảy siêu máy tính AI mới**, phục vụ nghiên cứu khoa học quốc gia.  
 
@@ -37,7 +37,7 @@ Các hệ thống này sẽ khai thác sức mạnh của:
 
 Mục tiêu là giúp Hoa Kỳ duy trì vị thế **dẫn đầu về khoa học và công nghệ toàn cầu**.
 
-# Tái định nghĩa nền tảng điện toán AI
+**Tái định nghĩa nền tảng điện toán AI**
 
 Ở phần cuối bài phát biểu, Jensen Huang nhấn mạnh rằng **AI không chỉ là chatbot**.  
 Theo ông, trí tuệ nhân tạo đang **tái cấu trúc toàn bộ “ngăn xếp” điện toán** – từ phần cứng, phần mềm đến mô hình học máy.  
@@ -46,7 +46,7 @@ Khái niệm **“tokenization”** (mã hoá mọi dạng dữ liệu – từ 
 
 Huang cũng ghi nhận **chính sách năng lượng thuận lợi của chính quyền Mỹ** là yếu tố quan trọng giúp hạ tầng AI phát triển, vì các trung tâm dữ liệu GPU tiêu thụ lượng điện khổng lồ.
 
-# Tầm nhìn tương lai
+** Tầm nhìn tương lai**
 
 Theo Huang, tương lai của khoa học là sự **hội tụ giữa điện toán tăng tốc, AI và lượng tử**.  
 Những công nghệ này không loại trừ nhau mà sẽ **hợp nhất thành nền tảng siêu máy tính thế hệ mới**, nơi GPU, QPU và AI cùng làm việc để khám phá tự nhiên, thiết kế vật liệu và phát minh thuốc mới.  
